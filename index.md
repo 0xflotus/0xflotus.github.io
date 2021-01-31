@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/0xflotus/0xflotus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```clojure
+((defn func [] (println (clojure.string/join "\u000a" ["|_|O|_|" "|_|_|O|" "|O|O|O|"]))))
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```python
+print('👨🏻‍💻 by day && night 😎')
+```
 
-### Jekyll Themes
+```prolog
+job_title(X) :-
+    member(X, ['Fullstack Developer', 'Software Engineer', 'Security Researcher', 'Data Scientist']),
+    \+ member(X, ['Consultant']).
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0xflotus/0xflotus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### About
 
-### Support or Contact
+- Open Source Code Explorer, Enthusiast and ~Archeo~ ~Arkeolo~ Archaeologist, that's it!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![0xflotus' github stats](https://github-readme-stats.vercel.app/api?username=0xflotus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
+![0xflotus' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=0xflotus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
+
+<!--
+**0xflotus/0xflotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/0xflotus)
