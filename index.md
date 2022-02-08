@@ -16,5 +16,5 @@ job_title(X) :-
 
 ### About
 
-- Open Source Code Explorer, Enthusiast and Archaeologist, that's it!
+- Open Source Code Explorer and Enthusiast
 
